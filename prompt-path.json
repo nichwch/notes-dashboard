@@ -1,0 +1,6 @@
+[
+    {
+        "name": "summarize",
+        "prompt": "Here are some notes I've taken. Please help me summarize them, noting any long running trends over what I've written."
+    }
+]
